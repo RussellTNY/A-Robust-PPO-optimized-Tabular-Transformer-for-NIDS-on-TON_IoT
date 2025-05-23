@@ -11,9 +11,6 @@ This repository contains the official implementation of our novel framework for 
   - Confidence-adjusted rewards
   - Log-scaled temporal penalty for sequential mistakes
 
-## 📐 Architecture
-
-![Architecture Diagram](./architecture.png)
 
 ## 🧪 Experimental Results
 
